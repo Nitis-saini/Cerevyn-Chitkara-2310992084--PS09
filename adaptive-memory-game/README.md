@@ -50,7 +50,7 @@ Objectives:
 
 ## Technology stack
 
-| Technology | Why |
+| Technology | 
 
 | --- | --- |
 
@@ -135,21 +135,20 @@ The interface uses a dark charcoal theme with a restrained violet accent. All co
 Screenshots of the Adaptive Memory Matching Game are stored in [`docs/screenshots/`](docs/screenshots/).
 
 ### Easy difficulty (4×4)
-![Easy difficulty gameplay](docs/screenshots/gameplay.png)
+![Easy difficulty gameplay](docs/screenshots/4x4.png)
 
 ### Medium difficulty (5×4)
-![Medium difficulty gameplay](docs/screenshots/medium-level.png)
+![Medium difficulty gameplay](docs/screenshots/5x4.png)
 
 ### Hard difficulty (6×6)
-![Hard difficulty gameplay](docs/screenshots/hard-level.png)
+![Hard difficulty gameplay](docs/screenshots/6x6.png)
 
-### Round completed and adaptive progression
-![Completed round and next-level explanation](docs/screenshots/win-screen.png)
+### Round completed But time Fail
+![Completed round and next-level explanation](docs/screenshots/fail.png)
 
-### Mobile layout
-![Responsive mobile layout](docs/screenshots/mobile.png)
 
-> **Screenshot paths:** Replace the filenames above with the actual names committed to `docs/screenshots/`. Only keep images that exist in your repository.
+
+
 
 ## Prerequisites
 
